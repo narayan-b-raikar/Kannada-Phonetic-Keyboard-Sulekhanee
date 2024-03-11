@@ -40,7 +40,7 @@ If you want to install this keyboard layout on your computer, follow these steps
 ## How to Use the Keyboard
 
 To activate the Kannada Phonetic Keyboard Sulekhanee whenever you want to type in Kannada, simply press the Alt+Shift or Windows+Space key combination. To switch back to English or another language, press the same key combination again.
-For reference on using this keyboard layout, refer to the image included in the extracted folder.
+For reference on using this keyboard layout, refer the [Manual from this link](https://github.com/narayan-b-raikar/Kannada-Phonetic-Keyboard-Sulekhanee/blob/Main/Manual.md).
 ### Feedback and Suggestions
 We welcome your feedback and suggestions for improving the Kannada Phonetic Keyboard Sulekhanee. 
 Feel free to send your thoughts to our email address: [shreenilaya@outlook.in](shreenilaya@outlook.in)
