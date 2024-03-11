@@ -67,7 +67,7 @@ This section provides external links to resources that you might find helpful if
 5. Virtual Key Codes (Windows CE 5.0): https://learn.microsoft.com/en-us/windows/win32/inputdev/virtual-key-codes (Archived by Web Archive)
  ## Contributors
 
-* [Dr. Narayan raikar](narayan-b-raikar)
+* [Dr. Narayan B Raikar](narayan-b-raikar)
 * [Srinivasmurti](smbgsrini)
 * [Vilesh Bandekar](VileshBandekar)
 
