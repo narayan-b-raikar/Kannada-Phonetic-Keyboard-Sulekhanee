@@ -4,7 +4,9 @@
 
 The Kannada Phonetic Keyboard Sulekhanee is a keyboard layout designed to enhance
 Kannada typing speed and ease of use across various applications.
+
 ### Benefits
+
 * Faster Typing:
 Sulekhanee leverages familiar key combinations inspired by the 'Kagapa Nudi Kannada' layout, promoting faster and more efficient typing.
 * Improved Accessibility:
@@ -17,7 +19,9 @@ While the Creator offers some level of phonetic mapping, it may not be as optimi
 However, the Nudi application itself faces compatibility issues with certain software.
 ### Future Enhancements
 The Sulekhanee keyboard layout is under continuous development. We actively seek user feedback to implement modifications that further improve user convenience and typing experience.
+
 ## Installation
+
 If you want to install this keyboard layout on your computer, follow these steps:
 
 1. Download the Keyboard Layout: Download the zip file containing the keyboard layout from this link:
@@ -46,7 +50,7 @@ If you wish to customize the layout, you'll need Microsoft Keyboard Layout Creat
 [Download and install the application](https://www.microsoft.com/en-us/download/details.aspx?id=102134)
 Once installed, launch the application and navigate to the "File" menu. Select "Load Existing Keyboard" to open the Sulekhanee layout for editing. Refer to the application's dedicated help menu for detailed instructions on modifying keyboard layouts.
 
-Note: On Windows 8 or later operating systems, Microsoft .NET Framework 3.5 (including 2.0) must be installed for the Keyboard Layout Creator application to function properly.
+Note: On Windows 8 or later operating systems, Microsoft .NET Framework 3.5 (including 2.0 and 3.0) must be installed for the Keyboard Layout Creator application to function properly.
 
 ## Additional Resources for Building Keyboard Layouts
 
@@ -70,3 +74,4 @@ This section provides external links to resources that you might find helpful if
 ## License
 
 This project is licensed under the terms of the GNU Licence . 
+
