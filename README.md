@@ -71,7 +71,6 @@ This section provides external links to resources that you might find helpful if
 * [Srinivasmurti](smbgsrini)
 * [Vilesh Bandekar](VileshBandekar)
 
-## License
+#### License
 
-This project is licensed under the terms of the GNU Licence . 
-
+This project is licensed under the GNU General Public License, See the [LICENSE Details](LICENSE) 
