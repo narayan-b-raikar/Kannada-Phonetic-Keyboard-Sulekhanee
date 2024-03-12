@@ -2,7 +2,7 @@
 
 ## How to Type in Kannada
 The Kannada sulekhani keyboard layout is similar to the QWERTY layout. To type in Kannada characters, press the keys as shown in the table below.
-| ## Keyboard Combination Table: |
+## Keyboard Combination Table:
 |English Letter|Without Shift|With Shift|
 |:---:|:---:|:---:|
 |a|ಅ|*ಆ ಕಾರ (* Aa kaara)|
@@ -42,8 +42,8 @@ The Kannada sulekhani keyboard layout is similar to the QWERTY layout. To type i
 |9|9|(|
 |0|0|)|
 |[|ಒ|ಓ|
-|]|ಔ|*ನುಕ್ತ ಼ (Kannada Nukta)|
-|\\|\\|&#124;
+|]|ಔ|* ನುಕ್ತ ಼ (Kannada Nukta)|
+| \\ | \\ | &#124;
 |,|,|ಎ|
 |.|.|ಏ|
 |/|ಐ|?|
