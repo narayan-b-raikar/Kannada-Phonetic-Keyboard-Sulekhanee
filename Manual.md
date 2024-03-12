@@ -52,4 +52,4 @@ The Kannada sulekhani keyboard layout is similar to the QWERTY layout. To type i
 | `| ಕ್ಷ (ksha)| ಜ್ಞ(jna)| 
 | -| -| _| 
 
-[go to home page](readme.md)
+[go to home page](README.md)
