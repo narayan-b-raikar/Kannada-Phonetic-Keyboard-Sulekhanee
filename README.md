@@ -1,5 +1,5 @@
 # Kannada Phonetic Keyboard Sulekhanee
-
+The phonetic keyboard to typing Kannada in any application.
 ## Introduction
 
 The Kannada Phonetic Keyboard Sulekhanee is a keyboard layout designed to enhance
@@ -24,9 +24,7 @@ The Sulekhanee keyboard layout is under continuous development. We actively seek
 
 If you want to install this keyboard layout on your computer, follow these steps:
 
-1. Download the Keyboard Layout: Download the zip file containing the keyboard layout from this link:
-
-[Download Kannada Phonetic Keyboard:](https://github.com/narayan-b-raikar/Kannada-Phonetic-Keyboard-Sulekhanee/releases/download/V2.0.0/Kannada.Phonetic.Keyboard.V2.0.zip)
+1. Download the Keyboard Layout: Download the zip file containing the keyboard layout from this link: [Download Kannada Phonetic Keyboard](https://github.com/narayan-b-raikar/Kannada-Phonetic-Keyboard-Sulekhanee/releases/download/V2.0.0/Kannada.Phonetic.Keyboard.V2.0.zip)
 
 2. Add Kannada Language (if necessary): Ensure Kannada language is added in your Windows' Languages settings if it's not already included.
 
@@ -41,7 +39,8 @@ If you want to install this keyboard layout on your computer, follow these steps
 ## How to Use the Keyboard
 
 To activate the Kannada Phonetic Keyboard Sulekhanee whenever you want to type in Kannada, simply press the Alt+Shift or Windows+Space key combination. To switch back to English or another language, press the same key combination again.
-For reference on using this keyboard layout, refer the [Kannada-Phonetic-Keyboard-Sulekhanee manual from](https://github.com/narayan-b-raikar/Kannada-Phonetic-Keyboard-Sulekhanee/blob/Main/Manual.md).
+For reference on using this keyboard layout, refer the [Kannada phonetic keyboard sulekhanee manual](https://github.com/narayan-b-raikar/Kannada-Phonetic-Keyboard-Sulekhanee/blob/Main/Manual.md).
+
 ### Feedback and Suggestions
 We welcome your feedback and suggestions for improving the Kannada Phonetic Keyboard Sulekhanee. 
 Feel free to send your thoughts to our email address: [shreenilaya@outlook.in](shreenilaya@outlook.in)
